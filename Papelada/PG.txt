@@ -1,0 +1,38 @@
+# Nome Completo: 
+André Neves Abrantes Garcia Gomes
+
+# Curso: 
+Engenharia Multimédia
+
+# Turma:
+ Laboral A
+
+# Título do Trabalho:
+ Escape Box no ensino 
+
+# Objeto de estudo: 
+Implementação de técnicas que tornem a metodologia de ensino mais desafiante e prazerosa (tanto para o professor como para o aluno) misturando conceitos distintos.
+
+# O que torna o trabalho original: (não se valorizam cópias de artefactos já existentes): 
+É uma abordagem inovadora nunca aplicada no ensino. Uma tentativa de aplicar técnicas de gamificação em conceitos educativos.
+
+# O projeto responde a algum problema: 
+À falta, geral, de dinamismo nas atividades ensino. Tornando-as mais ativas, mais enérgicas  com este novo conceito
+
+# Que tecnologias vai utilizar para desenvolver o projeto: 
+Adobe Photoshop, Adobe Illustrator, Microsoft Visual Studio,
+Microsoft Visual Studio Code, ASP.NET, C#, HTML, CSS, JavaScript.
+
+# Planificação do trabalho no tempo: 
+•	Criação do logo (início de dezembro), 
+
+•	Desenvolvimento do website (início de fevereiro/março),
+
+•	Desenvolvimento do manual de marca (meio de maio), 
+
+•	Desenvolvimento do relatório (dia de apresentação) 
+
+•	Criação de uma posição digital (redes sociais) (meio junho)
+
+# Pequena descrição do trabalho (máximo 130 palavras).: 
+Trata-se de um projeto europeu (desenvolvido para o ISTEC) que irá envolver conceitos de gamificação com a educação tornando a mesma divertida e desafiante
