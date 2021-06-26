@@ -17,12 +17,22 @@
 
 🇵🇹
 
-Desenvolvimento de uma plataforma que pretende facilitar a inclusão social e empregabilidade de jovens oriundos de meios socialmente desfavorecidos através de metodologias inovadoras e não formais, como a gamificação e a aprendizagem baseada no jogo.
+  Este estudo constituiu num projeto de investigação orientado, principalmente, a jovens oriundos de meios socialmente desfavorecidos. Visou sobretudo a motivação dos mesmos, recorrendo à introdução de elementos de jogos na dinamização do ensino/formação. 
+
+  Atualmente e com a persistente globalização da nossa sociedade, as pessoas que fazem parte da mesma fazem um uso constante de smartphones, laptops, tablets, etc. São estas mesmas máquinas que permitem a execução de um elevado número de tarefas, brindando-nos com aplicações que tornam possível este multitasking, de entre as quais a realização de, por exemplo, um ensino à distância.
+
+Este estudo procurou diversificar e validar novas técnicas de jogo usando uma plataforma online, tendo como objetivo contribuir para o sucesso educativo dos estudantes, motivando-os e amplificando o seu nível de participação ao longo do seu percurso.
+
 
 ~
 
 🇬🇧
 
+  This study was a research project aimed mainly at young people from socially disadvantaged backgrounds. It mainly aimed at their motivation, resorting to the introduction of game elements in the dynamization of teaching/training.
+
+  Currently, and with the persistent globalization of our society, people who are part of it make constant use of smartphones, laptops, tablets, etc. These are the same machines that allow the execution of a large number of tasks, providing us with applications that make this multitasking possible, among which the realization of, for example, distance learning.
+
+  This study sought to diversify and validate new game techniques using an online platform, aiming to contribute to the educational success of students, motivating them and amplifying their level of participation along their path.
 
 
 
