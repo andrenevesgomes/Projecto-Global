@@ -34,7 +34,7 @@ Este estudo procurou diversificar e validar novas técnicas de jogo usando uma p
 
   This study sought to diversify and validate new game techniques using an online platform, aiming to contribute to the educational success of students, motivating them and amplifying their level of participation along their path.
 
-
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 
 <!-- SHIELDS-->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -55,4 +55,19 @@ Este estudo procurou diversificar e validar novas técnicas de jogo usando uma p
 [web-shield]: https://img.shields.io/website-up-down-green-red/http/escapetoyourfuture.eu.svg
 [web-url]: https://escapetoyourfuture.eu/
 
+<!-- css -->
+[css-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[css-url]: https://escapetoyourfuture.eu/
+
+<!-- css -->
+[web-shield]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[web-url]: https://escapetoyourfuture.eu/
+
+<!-- css -->
+[web-shield]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[web-url]: https://escapetoyourfuture.eu/
+
+<!-- css -->
+[web-shield]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[web-url]: https://escapetoyourfuture.eu/
 
