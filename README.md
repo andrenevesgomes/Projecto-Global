@@ -7,9 +7,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
+<div align="center">
+  
 [![Facebook][fb-shield]][fb-url] 
 [![Instagram][insta-shield]][insta-url] 
 [![Twitter][twitter-shield]][twitter-url] 
+
+</div>
 
 [![Website Status][web-shield]][web-url] 
 
@@ -24,6 +28,8 @@
 Este estudo procurou diversificar e validar novas técnicas de jogo usando uma plataforma online, tendo como objetivo contribuir para o sucesso educativo dos estudantes, motivando-os e amplificando o seu nível de participação ao longo do seu percurso.
 
 
+#### Classificação obtida: 17 valores
+
 ~
 
 🇬🇧
@@ -33,6 +39,9 @@ Este estudo procurou diversificar e validar novas técnicas de jogo usando uma p
   Currently, and with the persistent globalization of our society, people who are part of it make constant use of smartphones, laptops, tablets, etc. These are the same machines that allow the execution of a large number of tasks, providing us with applications that make this multitasking possible, among which the realization of, for example, distance learning.
 
   This study sought to diversify and validate new game techniques using an online platform, aiming to contribute to the educational success of students, motivating them and amplifying their level of participation along their path.
+  
+#### Classificação obtida: 17 valores
+
 
 https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 
