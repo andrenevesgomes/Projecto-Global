@@ -28,7 +28,7 @@
 Este estudo procurou diversificar e validar novas técnicas de jogo usando uma plataforma online, tendo como objetivo contribuir para o sucesso educativo dos estudantes, motivando-os e amplificando o seu nível de participação ao longo do seu percurso.
 
 
-#### Classificação obtida: 17 valores
+#### Classificação obtida: 17/20
 
 ~
 
@@ -40,7 +40,7 @@ Este estudo procurou diversificar e validar novas técnicas de jogo usando uma p
 
   This study sought to diversify and validate new game techniques using an online platform, aiming to contribute to the educational success of students, motivating them and amplifying their level of participation along their path.
   
-#### Classificação obtida: 17 valores
+#### Classification obtained: 17/20
 
 
 
