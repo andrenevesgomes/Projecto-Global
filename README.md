@@ -43,7 +43,6 @@ Este estudo procurou diversificar e validar novas técnicas de jogo usando uma p
 #### Classificação obtida: 17 valores
 
 
-https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 
 <!-- SHIELDS-->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
